@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "AI Assisted Finance course plan"
             }
+          },
+          {
+            "id": "f5d8ea48b005fdb0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Finance Course product/MyPlanDrawing.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MyPlanDrawing.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b05970bd5b8b87",
+  "active": "4274af8684638cc9",
   "lastOpenFiles": [
-    "drones/drones_SITL.md",
     "Finance Course product/AI Assisted Finance course plan.md",
+    "Finance Course product/MyPlanDrawing.excalidraw.md",
+    "drones/drones_SITL.md",
     "Finance Course product",
     "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md",
     "drones/formation_swarm.excalidraw.svg",
