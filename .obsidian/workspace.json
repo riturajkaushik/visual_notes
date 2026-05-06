@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "57822660b7552fe2",
+        "id": "94b0b5a63529eea4",
         "type": "tabs",
         "children": [
           {
-            "id": "e770e492991fdce6",
+            "id": "89b05970bd5b8b87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-06 13.09.48.excalidraw"
             }
           }
         ]
@@ -74,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 418.5
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -173,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e770e492991fdce6",
+  "active": "89b05970bd5b8b87",
   "lastOpenFiles": [
+    "drones/formation_swarm.excalidraw.svg",
+    "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md",
+    "Excalidraw",
+    "PX4.md",
     "Untitled.base",
     "Welcome.md",
     "Untitled.canvas"
