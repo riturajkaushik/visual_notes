@@ -11,12 +11,14 @@
             "id": "89b05970bd5b8b87",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md"
+                "file": "drones/drones_SITL.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-06 13.09.48.excalidraw"
+              "icon": "lucide-file",
+              "title": "drones_SITL"
             }
           }
         ]
@@ -190,12 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b05970bd5b8b87",
+  "active": "4274af8684638cc9",
   "lastOpenFiles": [
-    "drones/formation_swarm.excalidraw.svg",
     "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md",
+    "drones/formation_swarm.excalidraw.svg",
     "Excalidraw",
-    "PX4.md",
+    "drones/PX4.md",
     "Untitled.base",
     "Welcome.md",
     "Untitled.canvas"
