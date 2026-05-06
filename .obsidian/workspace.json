@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Finance Course product/AI Assisted Finance course plan.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ea9597551a4c318",
+  "active": "89b05970bd5b8b87",
   "lastOpenFiles": [
     "drones/drones_SITL.md",
     "Finance Course product/AI Assisted Finance course plan.md",
