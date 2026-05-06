@@ -33,8 +33,7 @@
               "title": "MyPlanDrawing.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 200
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -205,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4274af8684638cc9",
+  "active": "89b05970bd5b8b87",
   "lastOpenFiles": [
-    "Finance Course product/AI Assisted Finance course plan.md",
     "Finance Course product/MyPlanDrawing.excalidraw.md",
+    "Finance Course product/AI Assisted Finance course plan.md",
     "drones/drones_SITL.md",
     "Finance Course product",
     "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md",
