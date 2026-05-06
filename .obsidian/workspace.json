@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 366.5
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b05970bd5b8b87",
+  "active": "4ea9597551a4c318",
   "lastOpenFiles": [
     "drones/drones_SITL.md",
     "Finance Course product/AI Assisted Finance course plan.md",
