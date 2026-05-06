@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89b05970bd5b8b87",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Finance Course product/MyPlanDrawing.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MyPlanDrawing.excalidraw"
-            }
-          },
-          {
             "id": "f5d8ea48b005fdb0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Finance Course product/MyPlanDrawing.excalidraw.md"
+                "file": "Finance Course product/AI Assisted Finance course plan.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MyPlanDrawing.excalidraw"
+              "icon": "lucide-file",
+              "title": "AI Assisted Finance course plan"
             }
           }
         ]
@@ -202,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b05970bd5b8b87",
+  "active": "f5d8ea48b005fdb0",
   "lastOpenFiles": [
-    "Finance Course product/AI Assisted Finance course plan.md",
     "Finance Course product/MyPlanDrawing.excalidraw.md",
+    "Finance Course product/AI Assisted Finance course plan.md",
     "drones/drones_SITL.md",
     "Finance Course product",
     "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md",
