@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eaf9e9e979957add",
+        "id": "3602d92a228d33bf",
         "type": "tabs",
         "children": [
           {
-            "id": "3dc7addcdfc2786f",
+            "id": "78fd0410e6d9e153",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "drones/MAVLink.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MAVLink"
             }
           }
         ]
@@ -188,16 +192,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dc7addcdfc2786f",
+  "active": "78fd0410e6d9e153",
   "lastOpenFiles": [
-    "drones/Q-Ground-Control.md",
+    "drones/formation_swarm.excalidraw.svg",
     "drones/MAVLink.md",
+    "drones/Q-Ground-Control.md",
     "Finance Course product/MyPlanDrawing.excalidraw.md",
     "Finance Course product/AI Assisted Finance course plan.md",
     "drones/drones_SITL.md",
     "Finance Course product",
     "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md",
-    "drones/formation_swarm.excalidraw.svg",
     "Excalidraw",
     "drones/PX4.md",
     "Untitled.base",
