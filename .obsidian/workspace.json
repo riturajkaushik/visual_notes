@@ -192,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78fd0410e6d9e153",
+  "active": "4274af8684638cc9",
   "lastOpenFiles": [
+    "drones/images",
     "drones/MAVLink.md",
     "drones/infographic_nano_banana_prompts.md",
     "drones/PX4.md",
