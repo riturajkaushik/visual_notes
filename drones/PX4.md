@@ -1,5 +1,8 @@
 # PX4 Notes
 
+Related note: for ground-station operations and QGC-first visualization guidance with PX4 ROS 2 simulator topics, see
+[`Q-Ground-Control.md`](./Q-Ground-Control.md).
+
 ## What goes into PX4, and what comes out?
 
 PX4 is a flight-control stack. For drones, it takes in:

@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "94b0b5a63529eea4",
+        "id": "a6a7413062cd6b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "f5d8ea48b005fdb0",
+            "id": "1a1c7dde1ae082a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Finance Course product/MyPlanDrawing.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MyPlanDrawing.excalidraw"
-            }
-          },
-          {
-            "id": "337823ba80446e08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finance Course product/AI Assisted Finance course plan.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AI Assisted Finance course plan"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 522.5
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -205,9 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "337823ba80446e08",
+  "active": "4274af8684638cc9",
   "lastOpenFiles": [
     "Finance Course product/MyPlanDrawing.excalidraw.md",
+    "drones/Q-Ground-Control.md",
     "Finance Course product/AI Assisted Finance course plan.md",
     "drones/drones_SITL.md",
     "Finance Course product",

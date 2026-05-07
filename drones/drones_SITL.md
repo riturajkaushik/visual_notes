@@ -291,6 +291,9 @@ You can also connect **QGroundControl** to PX4 SITL using **MAVLink UDP** for:
 
 This is separate from the ROS 2 autonomy link and is often useful during simulation.
 
+For a practical QGC-first workflow (including ROS 2 simulator topic visualization), see
+[`Q-Ground-Control.md`](./Q-Ground-Control.md).
+
 ## End-to-end data flow
 
 ```text
