@@ -1,5 +1,8 @@
 # QGroundControl (QGC) for Drones
 
+Related note: for detailed MAVLink protocol purpose and ROS 2 conversion in both directions, see
+[`MAVLink.md`](./MAVLink.md).
+
 ## What QGroundControl is
 
 **QGroundControl (QGC)** is a ground control station (GCS) for PX4-based drones.  

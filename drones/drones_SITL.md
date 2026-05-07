@@ -186,6 +186,9 @@ MAVLink is widely used for:
 - companion computer communication
 - MAVSDK or MAVROS-based control
 
+For a deeper protocol guide (real vs simulated usage and ROS 2 conversion both ways), see
+[`MAVLink.md`](./MAVLink.md).
+
 #### ROS 2 integration path
 
 For ROS 2, the usual communication path is:
