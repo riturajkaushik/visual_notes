@@ -77,6 +77,22 @@ Typical topology:
 - one or more consumers (QGC, onboard app, logger),
 - optional router (e.g., mavlink-router style fan-out).
 
+### What MAVRouter is
+
+**MAVRouter** (commonly implemented with tools like `mavlink-router`) is a MAVLink traffic router that sits between endpoints and forwards MAVLink packets between links.
+
+Its main role is to decouple one MAVLink source from many clients:
+
+- one FCU/SITL stream in, many consumers out (QGC, companion apps, loggers),
+- multiple input/output links bridged across serial and UDP/TCP paths,
+- centralized routing point instead of every tool connecting directly to the autopilot.
+
+Typical use cases:
+
+1. **Real drone**: fan out a single telemetry radio/serial stream to both GCS and onboard services.
+2. **SITL/simulation**: expose one simulated MAVLink source to QGC plus test/analytics tools at the same time.
+3. **Mixed tooling**: run logging/monitoring without disrupting the primary GCS connection.
+
 Important identifiers:
 
 - **SYSID**: vehicle/system identity,
