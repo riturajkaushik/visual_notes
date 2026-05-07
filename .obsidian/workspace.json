@@ -11,10 +11,14 @@
             "id": "1a1c7dde1ae082a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "drones/Q-Ground-Control.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Q-Ground-Control"
             }
           }
         ]
@@ -188,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4274af8684638cc9",
+  "active": "1a1c7dde1ae082a6",
   "lastOpenFiles": [
     "Finance Course product/MyPlanDrawing.excalidraw.md",
     "drones/Q-Ground-Control.md",
