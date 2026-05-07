@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/MAVLink.md",
+                "file": "drones/infographic_nano_banana_prompts.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAVLink"
+              "title": "infographic_nano_banana_prompts"
             }
           }
         ]
@@ -194,9 +194,9 @@
   },
   "active": "78fd0410e6d9e153",
   "lastOpenFiles": [
+    "drones/MAVLink.md",
     "drones/infographic_nano_banana_prompts.md",
     "drones/PX4.md",
-    "drones/MAVLink.md",
     "drones/formation_swarm.excalidraw.svg",
     "drones/Q-Ground-Control.md",
     "Finance Course product/MyPlanDrawing.excalidraw.md",
