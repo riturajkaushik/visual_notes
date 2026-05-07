@@ -60,6 +60,45 @@ This gives you a fast “is the drone flying correctly?” operational view.
 
 ---
 
+## Using QGC without real PX4 (ROS 2 simulated states)
+
+Yes, you can use QGC, but **not from ROS 2 topics directly**.
+
+QGC expects a MAVLink vehicle on a link (usually UDP/TCP/serial).  
+If your simulator only publishes ROS 2 topics, add a **ROS 2 -> MAVLink bridge** that emits MAVLink to QGC.
+
+### Minimum data needed for QGC to show a live vehicle
+
+At minimum, your bridge should publish MAVLink equivalents of:
+
+1. **Heartbeat / system identity** (vehicle appears online in QGC)
+2. **Attitude** (roll/pitch/yaw)
+3. **Position** (local and/or global)
+4. **System/battery status** (basic health visibility)
+
+Without heartbeat, QGC will not treat your source as a vehicle.
+
+### Practical flow for your setup
+
+1. Simulator publishes PX4-like ROS 2 topics (`vehicle_odometry`, status, battery, etc.).
+2. ROS 2 -> MAVLink bridge subscribes to those topics.
+3. Bridge maps values and frame conventions, then sends MAVLink over UDP (for example, to QGC listening endpoint).
+4. QGC connects to that UDP stream and visualizes map/attitude/status.
+
+### What works well vs what may be limited
+
+- **Works well**: live telemetry visualization, position/attitude tracking, basic health monitoring.
+- **May be partial**: full parameter workflows, mission protocol behavior, and PX4-specific management features unless your bridge emulates those protocols/messages fully.
+
+### Common failure points in this mode
+
+1. No heartbeat or wrong system/component IDs.
+2. ENU/NED mismatch causing wrong orientation/trajectory in QGC.
+3. Timestamp/rate issues making data look stale or jumpy.
+4. Missing GPS/global fields if you expect map-based behavior.
+
+---
+
 ## How to visualize flight from ROS 2 topics
 
 When you need deeper debugging than QGC provides, use ROS 2 tools in parallel:
