@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/drones_SITL.md",
+                "file": "drones/Drones SITL.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "drones_SITL"
+              "title": "Drones SITL"
             }
           }
         ]
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78fd0410e6d9e153",
+  "active": "4274af8684638cc9",
   "lastOpenFiles": [
     "drones/PX4.md",
     "drones/infographics.md",
@@ -211,7 +211,7 @@
     "drones/Q-Ground-Control.md",
     "Finance Course product/MyPlanDrawing.excalidraw.md",
     "Finance Course product/AI Assisted Finance course plan.md",
-    "drones/drones_SITL.md",
+    "drones/Drones SITL.md",
     "Finance Course product",
     "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md",
     "Excalidraw",
