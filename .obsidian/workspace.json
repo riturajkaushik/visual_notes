@@ -11,10 +11,12 @@
             "id": "9c3cbd8cfe667299",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "drones/Drawing 2026-05-08 13.33.10.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-08 13.33.10.excalidraw"
             }
           }
         ]
@@ -190,8 +192,10 @@
   },
   "active": "4274af8684638cc9",
   "lastOpenFiles": [
+    "drones/Comm architecture.md",
+    "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
+    "Excalidraw",
     "drones/Drones SITL.md",
-    "drones/images/Comm architecture.md",
     "drones/formation_swarm.excalidraw.svg",
     "drones/PX4.md",
     "drones/infographics.md",
@@ -211,7 +215,6 @@
     "Finance Course product/AI Assisted Finance course plan.md",
     "Finance Course product",
     "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md",
-    "Excalidraw",
     "Untitled.base",
     "Welcome.md",
     "Untitled.canvas"
