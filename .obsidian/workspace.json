@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/hivecore/Untitled.md",
+                "file": "drones/hivecore/uxv-main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "uxv-main"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5026054382324
+    "width": 200
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -195,7 +195,7 @@
   "active": "9c3cbd8cfe667299",
   "lastOpenFiles": [
     "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
-    "drones/hivecore/Untitled.md",
+    "drones/hivecore/uxv-main.md",
     "drones/hivecore",
     "drones/Comm architecture.md",
     "Excalidraw",
