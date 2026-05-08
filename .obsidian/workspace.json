@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/infographics.md",
+                "file": "drones/drones_SITL.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "infographics"
+              "title": "drones_SITL"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "78fd0410e6d9e153",
   "lastOpenFiles": [
-    "drones/infographic_nano_banana_prompts.md",
+    "drones/PX4.md",
     "drones/infographics.md",
+    "drones/infographic_nano_banana_prompts.md",
     "drones/images/Gemini_Generated_Image_o7i4b3o7i4b3o7i4.png",
     "drones/images/Gemini_Generated_Image_bz9j98bz9j98bz9j.png",
     "drones/images/Gemini_Generated_Image_ylok13ylok13ylok.png",
@@ -206,7 +207,6 @@
     "drones/images/Gemini_Generated_Image_bzxkg1bzxkg1bzxk.png",
     "drones/images",
     "drones/MAVLink.md",
-    "drones/PX4.md",
     "drones/formation_swarm.excalidraw.svg",
     "drones/Q-Ground-Control.md",
     "Finance Course product/MyPlanDrawing.excalidraw.md",
