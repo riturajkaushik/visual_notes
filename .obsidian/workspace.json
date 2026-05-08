@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3602d92a228d33bf",
+        "id": "2defd311e1b3d93a",
         "type": "tabs",
         "children": [
           {
-            "id": "78fd0410e6d9e153",
+            "id": "9c3cbd8cfe667299",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drones/Drones SITL.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Drones SITL"
+              "title": "New tab"
             }
           }
         ]
@@ -192,8 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ea9597551a4c318",
+  "active": "4274af8684638cc9",
   "lastOpenFiles": [
+    "drones/Drones SITL.md",
+    "drones/images/Comm architecture.md",
+    "drones/formation_swarm.excalidraw.svg",
     "drones/PX4.md",
     "drones/infographics.md",
     "drones/infographic_nano_banana_prompts.md",
@@ -207,11 +206,9 @@
     "drones/images/Gemini_Generated_Image_bzxkg1bzxkg1bzxk.png",
     "drones/images",
     "drones/MAVLink.md",
-    "drones/formation_swarm.excalidraw.svg",
     "drones/Q-Ground-Control.md",
     "Finance Course product/MyPlanDrawing.excalidraw.md",
     "Finance Course product/AI Assisted Finance course plan.md",
-    "drones/Drones SITL.md",
     "Finance Course product",
     "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md",
     "Excalidraw",
