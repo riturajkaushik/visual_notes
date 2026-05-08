@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 608.5026054382324
+    "width": 509.5026054382324
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4274af8684638cc9",
+  "active": "9c3cbd8cfe667299",
   "lastOpenFiles": [
     "drones/Comm architecture.md",
     "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
