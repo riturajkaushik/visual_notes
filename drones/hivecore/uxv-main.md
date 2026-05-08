@@ -273,15 +273,15 @@ NVIDIA L4T / Ubuntu + CUDA
 
 ## Quick Reference — Common Workflows
 
-| Task | Command |
-|------|---------|
-| Clone all source repos | `vcs import < uxv-dev.repos` |
-| Update all source repos | `./update-repos.sh` |
-| Build runtime Docker image | `./build_runtime_image.sh` |
-| Start stack (compose) | `cd compose && docker compose up -d` |
-| Start dev shell (compose) | `docker compose run --rm --profile dev uxv-dev bash` |
-| Start stack (legacy) | `./create-container.sh` |
-| Build inside container | `colcon build --symlink-install && source install/setup.bash` |
-| Launch full stack | `ros2 launch launch/uxv_dev-full.launch.py` |
+| Task                       | Command                                                                       |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| Clone all source repos     | `vcs import < uxv-dev.repos`                                                  |
+| Update all source repos    | `./update-repos.sh`                                                           |
+| Build runtime Docker image | `./build_runtime_image.sh`                                                    |
+| Start stack (compose)      | `cd compose && docker compose up -d`                                          |
+| Start dev shell (compose)  | `docker compose run --rm --profile dev uxv-dev bash`                          |
+| Start stack (legacy)       | `./create-container.sh`                                                       |
+| Build inside container     | `colcon build --symlink-install && source install/setup.bash`                 |
+| Launch full stack          | `ros2 launch launch/uxv_dev-full.launch.py`                                   |
 | Launch with custom profile | `ros2 launch launch/uxv_dev-full.launch.py params_path:=/path/to/config.yaml` |
-| Replay from bag | `ros2 launch launch/cams_from_bag.yml bag_path:=/path/to/bag` |
+| Replay from bag            | `ros2 launch launch/cams_from_bag.yml bag_path:=/path/to/bag`                 |
