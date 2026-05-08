@@ -11,12 +11,14 @@
             "id": "9c3cbd8cfe667299",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "drones/Drawing 2026-05-08 13.33.10.excalidraw.md"
+                "file": "drones/hivecore/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-08 13.33.10.excalidraw"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -192,8 +194,10 @@
   },
   "active": "9c3cbd8cfe667299",
   "lastOpenFiles": [
-    "drones/Comm architecture.md",
     "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
+    "drones/hivecore/Untitled.md",
+    "drones/hivecore",
+    "drones/Comm architecture.md",
     "Excalidraw",
     "drones/Drones SITL.md",
     "drones/formation_swarm.excalidraw.svg",
