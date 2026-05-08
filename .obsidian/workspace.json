@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 999.5026054382324
+    "width": 608.5026054382324
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4274af8684638cc9",
+  "active": "4ea9597551a4c318",
   "lastOpenFiles": [
     "drones/PX4.md",
     "drones/infographics.md",
