@@ -16,10 +16,10 @@ A balanced long-term structure could look something like:
 
 ## Planned instruments
 
-
-| Class           | Instrument            | Platform | Fee   | Industries |
-| --------------- | --------------------- | -------- | ----- | ---------- |
-| Europe Exposure | SEB Europe Exposure A | Nordnet  | 0.21% | Mixed      |
+| Class           | Instrument            | Platform | Fee   | Industries | Acc/Dist |
+| --------------- | --------------------- | -------- | ----- | ---------- | -------- |
+| Europe Exposure | SEB Europe Exposure A | Nordnet  | 0.21% | Mixed      | Acc      |
+|                 |                       |          |       |            |          |
 
 
 
