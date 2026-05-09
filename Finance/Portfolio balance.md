@@ -16,4 +16,11 @@ A balanced long-term structure could look something like:
 
 ## Planned instruments
 
+
+| Instru | Platform | Investment |     |
+| ------ | -------- | ---------- | --- |
+|        |          |            |     |
+
+
+
 Global equities: *iShares Core MSCI World UCITS ETF*
