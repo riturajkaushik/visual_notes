@@ -11,10 +11,14 @@
             "id": "6b5573030f5d0c9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Portfolio balance.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Portfolio balance"
             }
           }
         ]
@@ -188,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4274af8684638cc9",
+  "active": "6b5573030f5d0c9e",
   "lastOpenFiles": [
+    "Finance/Portfolio balance.md",
     "Finance",
     "Business",
     "drones/hivecore/uxv-main.md",
