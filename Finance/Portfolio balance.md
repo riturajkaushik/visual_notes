@@ -14,4 +14,6 @@ A balanced long-term structure could look something like:
 | Gold                 | 5-10%  |     |
 | Cash                 | 5-10%  |     |
 
-Planned instruments
+## Planned instruments
+
+Global equities: *iShares Core MSCI World UCITS ETF*
