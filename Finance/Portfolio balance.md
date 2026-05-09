@@ -21,7 +21,7 @@ A balanced long-term structure could look something like:
 | EQ           | Europe Exposure                            | SEB Europe Exposure A                 | Nordnet  | 0.21% | Mixed                            | Acc      | Done         |
 | EQ           | Emerging market                            | Storebrand Emerging Markets A Eur     | Nordnet  |       | Mixed (leading finance adn tech) | Acc      | Done         |
 | EQ           | Global market                              | Storebrand Global All countries A Eur | Nordnet  | 0.31% | Mixed - Leading tech and fin     | Acc      | Done         |
-| Fixed income | Global diversified mixed bond - Eur Hedged | DWS Invest Global Bonds LC            | Nordnet  |       |                                  |          |              |
+| Fixed income | Global diversified mixed bond - Eur Hedged | DWS Invest Global Bonds LC            | Nordnet  | 1.07% | Govt __                          |          |              |
 
 
 
