@@ -20,7 +20,7 @@ A balanced long-term structure could look something like:
 | ------------------------ | --------------------------------- | -------- | ----- | -------------------------------- | -------- | ------------ |
 | Europe Exposure equities | SEB Europe Exposure A             | Nordnet  | 0.21% | Mixed                            | Acc      | Done         |
 | Emerging market equities | Storebrand Emerging Markets A Eur | Nordnet  |       | Mixed (leading finance adn tech) | Acc      | Done         |
-| Worl-wide equities       |                                   |          |       |                                  |          |              |
+| Worlwide equities        |                                   |          |       |                                  |          |              |
 
 
 
