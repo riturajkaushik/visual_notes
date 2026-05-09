@@ -24,6 +24,10 @@ A balanced long-term structure could look something like:
 | Fixed income/ Bond | Global diversified mixed bond - Eur Hedged | DWS Invest Global Bonds LC            | Nordnet  | 1.07% | Govt + Corporate                 |          | Pending      |
 | Fixed income/Bond  | Euro govt bonds                            | S-Bank Euro Government Bond Yield A   | Nordnet  | 0.50% | Govt                             |          |              |
 
+Europe: Nordnet Eurooppa Indexi
+
+Emerging market: 
+
 
 
 Global equities: *iShares Core MSCI World UCITS ETF*
