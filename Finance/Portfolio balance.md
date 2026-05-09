@@ -17,9 +17,9 @@ A balanced long-term structure could look something like:
 ## Planned instruments
 
 
-| Class | Instrument | Platform |     |
-| ----- | ---------- | -------- | --- |
-|       |            |          |     |
+| Class           | Instrument | Platform |     |
+| --------------- | ---------- | -------- | --- |
+| Europe Exposure | SEB        |          |     |
 
 
 
