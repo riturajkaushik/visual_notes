@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2defd311e1b3d93a",
+        "id": "d7a45d1f033c465a",
         "type": "tabs",
         "children": [
           {
-            "id": "9c3cbd8cfe667299",
+            "id": "6b5573030f5d0c9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drones/hivecore/uxv-main.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "uxv-main"
+              "title": "New tab"
             }
           }
         ]
@@ -192,10 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c3cbd8cfe667299",
+  "active": "6b5573030f5d0c9e",
   "lastOpenFiles": [
-    "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
     "drones/hivecore/uxv-main.md",
+    "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
     "drones/hivecore",
     "drones/Comm architecture.md",
     "Excalidraw",
