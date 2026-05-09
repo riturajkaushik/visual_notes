@@ -16,11 +16,11 @@ A balanced long-term structure could look something like:
 
 ## Planned instruments
 
-| Class                    | Instrument                        | Platform | Fee   | Industries                       | Acc/Dist | Confirmation |
-| ------------------------ | --------------------------------- | -------- | ----- | -------------------------------- | -------- | ------------ |
-| Europe Exposure equities | SEB Europe Exposure A             | Nordnet  | 0.21% | Mixed                            | Acc      | Done         |
-| Emerging market equities | Storebrand Emerging Markets A Eur | Nordnet  |       | Mixed (leading finance adn tech) | Acc      | Done         |
-| Worlwide equities        |                                   |          |       |                                  |          |              |
+| Class                    | Instrument                            | Platform | Fee   | Industries                       | Acc/Dist | Confirmation |
+| ------------------------ | ------------------------------------- | -------- | ----- | -------------------------------- | -------- | ------------ |
+| Europe Exposure equities | SEB Europe Exposure A                 | Nordnet  | 0.21% | Mixed                            | Acc      | Done         |
+| Emerging market equities | Storebrand Emerging Markets A Eur     | Nordnet  |       | Mixed (leading finance adn tech) | Acc      | Done         |
+| Global equities          | Storebrand Global All countries A Eur | Nordnet  | 0.31% | Mixed - Leading tech and fin     |          |              |
 
 
 
