@@ -22,7 +22,7 @@ A balanced long-term structure could look something like:
 | EQ           | Emerging market                            | Storebrand Emerging Markets A Eur     | Nordnet  |       | Mixed (leading finance adn tech) | Acc      | Done         |
 | EQ           | Global market                              | Storebrand Global All countries A Eur | Nordnet  | 0.31% | Mixed - Leading tech and fin     | Acc      | Done         |
 | Fixed income | Global diversified mixed bond - Eur Hedged | DWS Invest Global Bonds LC            | Nordnet  | 1.07% | Govt + Corporate                 |          | Pending      |
-| Fixed income | Euro govt bonds                            | S-Bank Euro Government Bond Yield     |          |       |                                  |          |              |
+| Fixed income | Euro govt bonds                            | S-Bank Euro Government Bond Yield A   | Nordnet  | 0.50% | Govt                             |          |              |
 
 
 
