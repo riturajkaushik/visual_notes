@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/hivecore/mavlink-messages.md",
+                "file": "drones/hivecore/infographics.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mavlink-messages"
+              "title": "infographics"
             }
           }
         ]
@@ -194,8 +194,8 @@
   },
   "active": "9c3cbd8cfe667299",
   "lastOpenFiles": [
-    "drones/hivecore/Nest-UXV-Main-details.md",
     "drones/hivecore/mavlink-messages.md",
+    "drones/hivecore/Nest-UXV-Main-details.md",
     "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
     "drones/hivecore/infographics.md",
     "drones/hivecore/images/1 Global System Architecture Infographic.png",
