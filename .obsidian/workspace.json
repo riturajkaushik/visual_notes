@@ -11,10 +11,14 @@
             "id": "9c3cbd8cfe667299",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "drones/hivecore/Nest-UXV-Main-details.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nest-UXV-Main-details"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.50260543823242
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -188,8 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4274af8684638cc9",
+  "active": "9c3cbd8cfe667299",
   "lastOpenFiles": [
+    "drones/hivecore/uxv-main.md",
+    "drones/hivecore/Nest-UXV-Main-details.md",
     "Finance/Portfolio balance.md",
     "Finance",
     "Business/Finance Course product/MyPlanDrawing.excalidraw.md",
@@ -197,7 +203,6 @@
     "Business/Finance Course product",
     "Business",
     "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
-    "drones/hivecore/uxv-main.md",
     "drones/hivecore",
     "drones/Comm architecture.md",
     "Excalidraw",
