@@ -259,6 +259,7 @@ pkg_check_modules(GST REQUIRED gstreamer-1.0 gstreamer-app-1.0)
 ```
 
 This sets variables based on the first argument (`GST`):
+
 | Variable | Content |
 |---|---|
 | `${GST_INCLUDE_DIRS}` | Header search paths |
