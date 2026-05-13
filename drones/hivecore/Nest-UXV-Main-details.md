@@ -137,9 +137,6 @@ All external repos are pulled via `vcs import < uxv-dev.repos`:
 ### 4.1 IPM — Input Processing Module
 
 **Purpose:** Sensor ingestion layer — captures frames from RGB and thermal cameras, applies hardware-accelerated preprocessing, and publishes scaled images for downstream AI consumption.
-
-![IPM — Input Processing Module](images/2%20IPM%20—%20Input%20Processing%20Module%20Infographic.png)
-
 #### Directory Structure
 ```
 src/ipm/
