@@ -237,6 +237,7 @@ find_package(GeographicLib REQUIRED)
 ```
 
 **`REQUIRED` vs `QUIET`:**
+
 | Keyword | Behavior |
 |---|---|
 | `REQUIRED` | Error and stop if not found |
