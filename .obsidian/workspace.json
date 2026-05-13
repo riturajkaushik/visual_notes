@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a45d1f033c465a",
+        "id": "2defd311e1b3d93a",
         "type": "tabs",
         "children": [
           {
-            "id": "6b5573030f5d0c9e",
+            "id": "9c3cbd8cfe667299",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Portfolio balance.md",
-                "mode": "source",
+                "file": "drones/hivecore/Nest-UXV-Main-details.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portfolio balance"
+              "title": "Nest-UXV-Main-details"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 1121.5026054382324
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -192,25 +192,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b5573030f5d0c9e",
+  "active": "9c3cbd8cfe667299",
   "lastOpenFiles": [
-    "drones/hivecore/mavlink-messages.md",
     "drones/hivecore/infographics.md",
-    "drones/hivecore/images/8 DevOps & Deployment Pipeline Infographic.png",
-    "drones/hivecore/images/7 Shared Libraries & Message Architecture Infographic.png",
-    "drones/hivecore/images/6 DMM — Data Management Infographic.png",
-    "drones/hivecore/images/5 SHMM — State Orchestration Infographic.png",
-    "drones/hivecore/images/4 HLPM — Path Planning Infographic.png",
-    "drones/hivecore/images/3 ORTM — Perception Pipeline Infographic.png",
-    "drones/hivecore/images/2 IPM — Input Processing Module Infographic.png",
-    "drones/hivecore/images/1 Global System Architecture Infographic.png",
-    "drones/hivecore/images",
+    "drones/hivecore/mavlink-messages.md",
     "drones/hivecore/Nest-UXV-Main-details.md",
+    "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
+    "drones/hivecore/images/1 Global System Architecture Infographic.png",
+    "drones/hivecore/images/2 IPM — Input Processing Module Infographic.png",
+    "drones/hivecore/images/3 ORTM — Perception Pipeline Infographic.png",
+    "drones/hivecore/images/4 HLPM — Path Planning Infographic.png",
+    "drones/hivecore/images/5 SHMM — State Orchestration Infographic.png",
+    "drones/hivecore/images/6 DMM — Data Management Infographic.png",
+    "drones/hivecore/images/7 Shared Libraries & Message Architecture Infographic.png",
+    "drones/hivecore/images/8 DevOps & Deployment Pipeline Infographic.png",
+    "drones/hivecore/images",
+    "drones/hivecore/uxv-main.md",
     "Finance/Portfolio balance.md",
     "Finance",
+    "Business/Finance Course product/MyPlanDrawing.excalidraw.md",
+    "Business/Finance Course product/AI Assisted Finance course plan.md",
+    "Business/Finance Course product",
     "Business",
-    "drones/hivecore/uxv-main.md",
-    "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
     "drones/hivecore",
     "drones/Comm architecture.md",
     "Excalidraw",
@@ -223,9 +226,9 @@
     "drones/images",
     "drones/MAVLink.md",
     "drones/Q-Ground-Control.md",
-    "Business/Finance Course product/MyPlanDrawing.excalidraw.md",
-    "Business/Finance Course product/AI Assisted Finance course plan.md",
-    "Business/Finance Course product",
+    "Finance Course product/MyPlanDrawing.excalidraw.md",
+    "Finance Course product/AI Assisted Finance course plan.md",
+    "Finance Course product",
     "Excalidraw/Drawing 2026-05-06 13.09.48.excalidraw.md",
     "Untitled.base",
     "Welcome.md",
