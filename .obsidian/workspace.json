@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/hivecore/mavlink-messages.md",
+                "file": "drones/hivecore/HLPM_Developer_Guide.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mavlink-messages"
+              "title": "HLPM_Developer_Guide"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 945.5026054382324
+    "width": 561.5026054382324
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -207,12 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4274af8684638cc9",
+  "active": "18016801d359ac82",
   "lastOpenFiles": [
+    "drones/hivecore/mavlink-messages.md",
     "drones/hivecore/HLPM_Developer_Guide.md",
     "drones/hivecore/cmake_tutorial.md",
     "drones/hivecore/Nest-UXV-Main-details.md",
-    "drones/hivecore/mavlink-messages.md",
     "drones/hivecore/infographics.md",
     "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
     "drones/hivecore/images/1 Global System Architecture Infographic.png",
