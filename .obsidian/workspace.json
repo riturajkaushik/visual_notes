@@ -14,14 +14,29 @@
               "type": "markdown",
               "state": {
                 "file": "drones/hivecore/infographics.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "infographics"
             }
+          },
+          {
+            "id": "18016801d359ac82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drones/hivecore/Nest-UXV-Main-details.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nest-UXV-Main-details"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c3cbd8cfe667299",
+  "active": "18016801d359ac82",
   "lastOpenFiles": [
-    "drones/hivecore/Nest-UXV-Main-details.md",
     "drones/hivecore/infographics.md",
+    "drones/hivecore/Nest-UXV-Main-details.md",
     "drones/hivecore/mavlink-messages.md",
     "drones/Drawing 2026-05-08 13.33.10.excalidraw.md",
     "drones/hivecore/images/1 Global System Architecture Infographic.png",
