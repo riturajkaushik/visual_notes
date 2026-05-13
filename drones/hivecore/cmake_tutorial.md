@@ -177,6 +177,7 @@ endif()
 ```
 
 **Commands introduced:**
+
 | Command | Purpose |
 |---|---|
 | `option(NAME "desc" DEFAULT)` | Define a boolean option |
