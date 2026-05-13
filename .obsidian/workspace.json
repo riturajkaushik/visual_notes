@@ -207,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18016801d359ac82",
+  "active": "4274af8684638cc9",
   "lastOpenFiles": [
+    "drones/hivecore/HLPM_Developer_Guide.md",
     "drones/hivecore/cmake_tutorial.md",
     "drones/hivecore/Nest-UXV-Main-details.md",
     "drones/hivecore/mavlink-messages.md",
