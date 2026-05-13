@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1121.5026054382324
+    "width": 945.5026054382324
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -207,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18016801d359ac82",
+  "active": "4274af8684638cc9",
   "lastOpenFiles": [
     "drones/hivecore/infographics.md",
     "drones/hivecore/Nest-UXV-Main-details.md",
