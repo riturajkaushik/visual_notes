@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/hivecore/HLPM_Developer_Guide.md",
+                "file": "Coding/CPP/STL-Lib/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HLPM_Developer_Guide"
+              "title": "index"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561.5026054382324
+    "width": 318.5
   },
   "right": {
     "id": "7f8de174f9b5934a",
@@ -207,9 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4274af8684638cc9",
+  "active": "18016801d359ac82",
   "lastOpenFiles": [
+    "Coding/CPP/STL-Lib/02_sequence_containers.md",
     "Coding/CPP/STL-Lib/index.md",
+    "Coding/CPP/STL-Lib/01_foundations.md",
+    "drones/hivecore/HLPM_Developer_Guide.md",
     "Coding/CPP/STL-Lib/STL_topic_list.md",
     "Coding/CPP/STL-Lib/28_practice_and_checklist.md",
     "Coding/CPP/STL-Lib/27_debugging.md",
@@ -232,9 +235,6 @@
     "Coding/CPP/STL-Lib/10_algorithms_sorting_searching.md",
     "Coding/CPP/STL-Lib/09_algorithms_modifying.md",
     "Coding/CPP/STL-Lib/08_algorithms_non_modifying.md",
-    "Coding/CPP/STL-Lib/07_iterators.md",
-    "Coding/CPP/STL-Lib/06_strings.md",
-    "Coding/CPP/STL-Lib/05_container_adapters.md",
     "Coding/CPP/STL-Lib",
     "Coding/CPP",
     "Coding",
