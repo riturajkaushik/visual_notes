@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/CPP/STL-Lib/index.md",
-                "mode": "preview",
+                "file": "drones/hivecore/swam_plan/Swam plan.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Swam plan"
             }
           }
         ],
@@ -209,8 +209,10 @@
   },
   "active": "18016801d359ac82",
   "lastOpenFiles": [
-    "Coding/CPP/STL-Lib/02_sequence_containers.md",
     "Coding/CPP/STL-Lib/index.md",
+    "drones/hivecore/swam_plan/Swam plan.md",
+    "drones/hivecore/swam_plan",
+    "Coding/CPP/STL-Lib/02_sequence_containers.md",
     "Coding/CPP/STL-Lib/01_foundations.md",
     "drones/hivecore/HLPM_Developer_Guide.md",
     "Coding/CPP/STL-Lib/STL_topic_list.md",
@@ -234,7 +236,6 @@
     "Coding/CPP/STL-Lib/11_algorithms_set_heap_minmax.md",
     "Coding/CPP/STL-Lib/10_algorithms_sorting_searching.md",
     "Coding/CPP/STL-Lib/09_algorithms_modifying.md",
-    "Coding/CPP/STL-Lib/08_algorithms_non_modifying.md",
     "Coding/CPP/STL-Lib",
     "Coding/CPP",
     "Coding",
@@ -254,7 +255,6 @@
     "Excalidraw",
     "drones/formation_swarm.excalidraw.svg",
     "drones/images/Gemini_Generated_Image_o7i4b3o7i4b3o7i4.png",
-    "drones/images",
     "Untitled.canvas"
   ]
 }
