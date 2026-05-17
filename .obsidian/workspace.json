@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/hivecore/cmake_tutorial.md",
+                "file": "Coding/CPP/cmake_tutorial.md",
                 "mode": "source",
                 "source": false
               },
@@ -207,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18016801d359ac82",
+  "active": "4274af8684638cc9",
   "lastOpenFiles": [
     "drones/hivecore/swam_plan/Swam plan.md",
     "Coding/CPP/STL-Lib/index.md",
