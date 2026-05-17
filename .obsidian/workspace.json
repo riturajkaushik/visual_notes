@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/hivecore/swam_plan/Swam plan.md",
+                "file": "drones/hivecore/cmake_tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swam plan"
+              "title": "cmake_tutorial"
             }
           }
         ],
@@ -209,8 +209,8 @@
   },
   "active": "18016801d359ac82",
   "lastOpenFiles": [
-    "Coding/CPP/STL-Lib/index.md",
     "drones/hivecore/swam_plan/Swam plan.md",
+    "Coding/CPP/STL-Lib/index.md",
     "drones/hivecore/swam_plan",
     "Coding/CPP/STL-Lib/02_sequence_containers.md",
     "Coding/CPP/STL-Lib/01_foundations.md",
