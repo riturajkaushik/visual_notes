@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/CPP/cmake_tutorial.md",
+                "file": "Coding/CPP/STL-Lib/00_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cmake_tutorial"
+              "title": "00_index"
             }
           }
         ],
@@ -207,10 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4274af8684638cc9",
+  "active": "18016801d359ac82",
   "lastOpenFiles": [
+    "Coding/CPP/cmake_tutorial.md",
     "drones/hivecore/swam_plan/Swam plan.md",
-    "Coding/CPP/STL-Lib/index.md",
+    "Coding/CPP/STL-Lib/00_index.md",
     "drones/hivecore/swam_plan",
     "Coding/CPP/STL-Lib/02_sequence_containers.md",
     "Coding/CPP/STL-Lib/01_foundations.md",
@@ -235,7 +236,6 @@
     "Coding/CPP/STL-Lib/12_algorithms_permutation_partition.md",
     "Coding/CPP/STL-Lib/11_algorithms_set_heap_minmax.md",
     "Coding/CPP/STL-Lib/10_algorithms_sorting_searching.md",
-    "Coding/CPP/STL-Lib/09_algorithms_modifying.md",
     "Coding/CPP/STL-Lib",
     "Coding/CPP",
     "Coding",
