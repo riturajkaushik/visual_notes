@@ -7,7 +7,7 @@
 path_translator_ros.cpp. What it does, what are the functionalities and depends on what?
 ## Overview
 
-`path_translator_ros` is a ROS 2 composable component that acts as a bridge between high-level path planning and low-level drone control. It receives a waypoint path and the drone's current pose, then continuously publishes position or velocity setpoints to guide the drone along the path via MAVROS. Note that this component operates in local NED frame - all the info it receives and all the info it publishes are in local NED frame. So no transformation is performed here.
+`path_translator_ros` is a ROS 2 composable component that acts as a bridge between high-level path planning and low-level drone control. It receives a waypoint path and the drone's current pose, then continuously publishes position or velocity setpoints to guide the drone along the path via MAVROS. Note that this component operates in local ENU frame (which is standard in ROS ecosystem) - all the info it receives and all the info it publishes are in local ENU frame. So no transformation is performed here.
 
 The package is a thin ROS 2 wrapper around the core `PathTranslator` library (`hlpm::PathTranslator`), which handles all waypoint tracking logic independently of ROS.
 
