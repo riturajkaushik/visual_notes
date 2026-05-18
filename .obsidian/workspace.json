@@ -53,12 +53,14 @@
             "id": "dfe1b103949fd479",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "drones/hivecore/High-Level-Planning-module/Diag - HLPM.md"
+                "file": "Coding/ROS2/ROS2 dependency management guideline.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Diag - HLPM"
+              "icon": "lucide-file",
+              "title": "ROS2 dependency management guideline"
             }
           }
         ],
@@ -235,9 +237,11 @@
   },
   "active": "dfe1b103949fd479",
   "lastOpenFiles": [
+    "drones/hivecore/High-Level-Planning-module/Diag - HLPM.md",
+    "Coding/ROS2/ROS2 dependency management guideline.md",
+    "Coding/ROS2/Unconfirmed 843201.crdownload",
     "Coding/ROS2",
     "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
-    "drones/hivecore/High-Level-Planning-module/Diag - HLPM.md",
     "drones/hivecore/High-Level-Planning-module/Path-Translator-Component.md",
     "drones/hivecore/High-Level-Planning-module/HLPM_Developer_Guide.md",
     "drones/hivecore/High-Level-Planning-module",
@@ -277,8 +281,6 @@
     "drones/hivecore/images",
     "Finance",
     "Business/Finance Course product",
-    "Business",
-    "drones/hivecore",
     "drones/formation_swarm.excalidraw.svg",
     "drones/images/Gemini_Generated_Image_o7i4b3o7i4b3o7i4.png",
     "Untitled.canvas"
