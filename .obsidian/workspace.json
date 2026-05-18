@@ -25,14 +25,14 @@
             "id": "18016801d359ac82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "drones/hivecore/High-Level-Planning-module/Path-Translator-Component.md",
-                "mode": "preview",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Path-Translator-Component"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +209,8 @@
   },
   "active": "18016801d359ac82",
   "lastOpenFiles": [
-    "drones/hivecore/High-Level-Planning-module/HLPM_Developer_Guide.md",
     "drones/hivecore/High-Level-Planning-module/Path-Translator-Component.md",
+    "drones/hivecore/High-Level-Planning-module/HLPM_Developer_Guide.md",
     "drones/hivecore/High-Level-Planning-module",
     "drones/hivecore/swam_plan/Swam plan.md",
     "drones/hivecore/swam_plan",
