@@ -53,12 +53,14 @@
             "id": "dfe1b103949fd479",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "drones/hivecore/High-Level-Planning-module/Diag - HLPM.md"
+                "file": "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Diag - HLPM"
+              "icon": "lucide-file",
+              "title": "Global-Path-Planning"
             }
           }
         ],
@@ -233,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4274af8684638cc9",
+  "active": "dfe1b103949fd479",
   "lastOpenFiles": [
-    "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
     "drones/hivecore/High-Level-Planning-module/Diag - HLPM.md",
+    "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
     "drones/hivecore/High-Level-Planning-module/Path-Translator-Component.md",
     "drones/hivecore/High-Level-Planning-module/HLPM_Developer_Guide.md",
     "drones/hivecore/High-Level-Planning-module",
