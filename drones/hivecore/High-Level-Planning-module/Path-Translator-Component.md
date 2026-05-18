@@ -3,6 +3,7 @@
 > Repo Commit: 70a3fc3b2046b0cd9a5eaae002306357c85fbd47
 > Date: 2026-05-18
 
+> Copilot prompt:  
 ## Overview
 
 `path_translator_ros` is a ROS 2 composable component that acts as a bridge between high-level path planning and low-level drone control. It receives a waypoint path and the drone's current pose, then continuously publishes position or velocity setpoints to guide the drone along the path via MAVROS.
