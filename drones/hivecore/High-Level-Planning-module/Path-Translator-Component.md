@@ -96,11 +96,11 @@ On every module state callback, the component publishes diagnostic checks:
 
 ### Subscribed Topics
 
-| Topic (default) | Message Type | Description |
-|-----------------|--------------|-------------|
-| `/mavros/local_position/pose` | `geometry_msgs/msg/PoseStamped` | Current drone pose in the local frame. |
-| `/hlpm/global_path_planning/global_path` | `geometry_msgs/msg/PoseArray` | Waypoint path to follow. |
-| `/hlpm/hlp_state_manager/module_state` | `odp_common_ros/msg/ModuleState` | Module state for activation gating. |
+| Topic (default)                          | Message Type                     | Description                                                                                 |
+| ---------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------- |
+| `/mavros/local_position/pose`            | `geometry_msgs/msg/PoseStamped`  | Current drone pose in the local frame. In ENU as mavros internally transforms NED into ENU. |
+| `/hlpm/global_path_planning/global_path` | `geometry_msgs/msg/PoseArray`    | Waypoint path to follow.                                                                    |
+| `/hlpm/hlp_state_manager/module_state`   | `odp_common_ros/msg/ModuleState` | Module state for activation gating.                                                         |
 
 ### Published Topics
 
