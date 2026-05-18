@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/hivecore/HLPM_Developer_Guide.md",
+                "file": "drones/hivecore/High-Level-Planning-module/HLPM_Developer_Guide.md",
                 "mode": "preview",
                 "source": false
               },
@@ -209,7 +209,7 @@
   },
   "active": "4274af8684638cc9",
   "lastOpenFiles": [
-    "drones/hivecore/Untitled",
+    "drones/hivecore/High-Level-Planning-module",
     "drones/hivecore/swam_plan/Swam plan.md",
     "drones/hivecore/swam_plan",
     "Coding/CPP/cmake_tutorial.md",
