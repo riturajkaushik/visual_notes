@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Global-Path-Planning"
             }
+          },
+          {
+            "id": "dfe1b103949fd479",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "drones/hivecore/High-Level-Planning-module/Drawing 2026-05-18 10.21.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-18 10.21.45.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,10 +233,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cd27dda0dbc329b",
+  "active": "dfe1b103949fd479",
   "lastOpenFiles": [
-    "drones/hivecore/High-Level-Planning-module/Path-Translator-Component.md",
     "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
+    "drones/hivecore/High-Level-Planning-module/Drawing 2026-05-18 10.21.45.excalidraw.md",
+    "drones/hivecore/High-Level-Planning-module/Path-Translator-Component.md",
     "drones/hivecore/High-Level-Planning-module/HLPM_Developer_Guide.md",
     "drones/hivecore/High-Level-Planning-module",
     "drones/hivecore/swam_plan/Swam plan.md",
@@ -250,7 +263,6 @@
     "Coding/CPP/STL-Lib/12_algorithms_permutation_partition.md",
     "Coding/CPP/STL-Lib/11_algorithms_set_heap_minmax.md",
     "Coding/CPP/STL-Lib/10_algorithms_sorting_searching.md",
-    "Coding/CPP/STL-Lib/09_algorithms_modifying.md",
     "Coding/CPP/STL-Lib",
     "Coding/CPP",
     "Coding",
