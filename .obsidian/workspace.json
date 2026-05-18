@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
+                "file": "drones/hivecore/swam_plan/Swam plan.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global-Path-Planning"
+              "title": "Swam plan"
             }
           }
         ],
@@ -237,11 +237,11 @@
   },
   "active": "dfe1b103949fd479",
   "lastOpenFiles": [
+    "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
     "drones/hivecore/High-Level-Planning-module/Diag - HLPM.md",
     "Coding/ROS2/ROS2 dependency management guideline.md",
     "Coding/ROS2/Unconfirmed 843201.crdownload",
     "Coding/ROS2",
-    "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
     "drones/hivecore/High-Level-Planning-module/Path-Translator-Component.md",
     "drones/hivecore/High-Level-Planning-module/HLPM_Developer_Guide.md",
     "drones/hivecore/High-Level-Planning-module",
