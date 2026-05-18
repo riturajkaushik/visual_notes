@@ -104,10 +104,10 @@ On every module state callback, the component publishes diagnostic checks:
 
 ### Published Topics
 
-| Topic (default) | Message Type | Description |
-|-----------------|--------------|-------------|
-| `/mavros/setpoint_raw/local` | `mavros_msgs/msg/PositionTarget` | Position or velocity setpoint in `FRAME_LOCAL_NED`. |
-| `/hlpm/component/check` | `odp_common_ros/msg/ComponentCheckArray` | Component health check diagnostics. |
+| Topic (default)              | Message Type                             | Description                                             |
+| ---------------------------- | ---------------------------------------- | ------------------------------------------------------- |
+| `/mavros/setpoint_raw/local` | `mavros_msgs/msg/PositionTarget`         | Position or velocity setpoint in ENU `FRAME_LOCAL_NED`. |
+| `/hlpm/component/check`      | `odp_common_ros/msg/ComponentCheckArray` | Component health check diagnostics.                     |
 
 **NOTE:** The path_translator_ros component does not perform any global-to-local coordinate transformation. It operates entirely in the local NED frame,   assuming that both the ego pose (from /mavros/local_position/pose) and the incoming  waypoint path (from the path_topic) are already expressed in the same local frame. The upstream path publisher is responsible for providing waypoints in local NED coordinates.
 
