@@ -1,14 +1,9 @@
 # Path Translator Component (`path_translator_ros`)
 
+*Repo Commit: 70a3fc3b2046b0cd9a5eaae002306357c85fbd47*
+*Doc Creation Date: 2026-05-18*
 
-```bash
-Repo Commit: 70a3fc3b2046b0cd9a5eaae002306357c85fbd47
-Doc Creation Date: 2026-05-18
-
-Copilot prompt:  /plan write a brief documentation on the package path_translator_ros and the component
-path_translator_ros.cpp. What it does, what are the functionalities and depends on what?
-
-```
+*Copilot prompt:  /plan write a brief documentation on the package path_translator_ros and the component path_translator_ros.cpp. What it does, what are the functionalities and depends on what?*
 ## Overview
 
 `path_translator_ros` is a ROS 2 composable component that acts as a bridge between high-level path planning and low-level drone control. It receives a waypoint path and the drone's current pose, then continuously publishes position or velocity setpoints to guide the drone along the path via MAVROS. Note that this component operates in local ENU frame (which is standard in ROS ecosystem) - all the info it receives and all the info it publishes are in local ENU frame. So no transformation is performed here.
