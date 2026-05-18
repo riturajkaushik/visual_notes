@@ -86,6 +86,25 @@ The node publishes diagnostic checks covering:
 
 > **Note:** This node does not perform tf2 transformations. Frame conversions between GNSS, local NED, and local ENU are handled internally by the core `GlobalPathPlanning` library.
 
+The node is forced to use two different local frames, namely ENU and NED, because different parts of the system follow different conventions:
+
+ - ENU (East-North-Up) — the ROS/MAVROS standard. MAVROS automatically converts the 
+autopilot's native frame to ENU before publishing /mavros/local_position/pose. This is 
+what the ROS ecosystem expects.
+ - NED (North-East-Down) — the MAVLink/PX4/ArduPilot standard. Mission waypoints coming 
+from a ground control station via MAVLink use NED (or global geodetic frames). The 
+MavFrame field on each waypoint reflects this.
+
+So ENU comes from the ROS side (MAVROS), and NED comes from the autopilot/GCS side
+(MAVLink protocol). The core GlobalPathPlanning library handles the conversion internally
+and outputs everything in the map frame, so downstream consumers don't need to worry about
+it.
+
+This is a very common pattern in UAV stacks — ROS standardized on ENU, while
+aviation/autopilot ecosystems standardized on NED. Unifying at the boundary would require
+modifying either MAVROS conventions or the MAVLink mission protocol, both of which are
+external standards.
+
 ---
 
 ## Dependencies
