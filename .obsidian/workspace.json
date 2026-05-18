@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Path-Translator-Component"
             }
+          },
+          {
+            "id": "7cd27dda0dbc329b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Global-Path-Planning"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,10 +221,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18016801d359ac82",
+  "active": "7cd27dda0dbc329b",
   "lastOpenFiles": [
-    "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
     "drones/hivecore/High-Level-Planning-module/Path-Translator-Component.md",
+    "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
     "drones/hivecore/High-Level-Planning-module/HLPM_Developer_Guide.md",
     "drones/hivecore/High-Level-Planning-module",
     "drones/hivecore/swam_plan/Swam plan.md",
