@@ -235,6 +235,7 @@
   },
   "active": "dfe1b103949fd479",
   "lastOpenFiles": [
+    "Coding/ROS2",
     "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
     "drones/hivecore/High-Level-Planning-module/Diag - HLPM.md",
     "drones/hivecore/High-Level-Planning-module/Path-Translator-Component.md",
@@ -262,7 +263,6 @@
     "Coding/CPP/STL-Lib/13_numeric_algorithms.md",
     "Coding/CPP/STL-Lib/12_algorithms_permutation_partition.md",
     "Coding/CPP/STL-Lib/11_algorithms_set_heap_minmax.md",
-    "Coding/CPP/STL-Lib/10_algorithms_sorting_searching.md",
     "Coding/CPP/STL-Lib",
     "Coding/CPP",
     "Coding",
