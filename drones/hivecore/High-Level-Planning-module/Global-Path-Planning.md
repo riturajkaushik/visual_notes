@@ -19,14 +19,14 @@ The node switches between these modes based on the vehicle's mission state, publ
 
 ### Subscribers
 
-| Topic (default) | Message Type | Description |
-|---|---|---|
-| `/mavros/local_position/pose` | `geometry_msgs/PoseStamped` | Current vehicle pose in local ENU frame |
-| `/mavros/home_position/home` | `mavros_msgs/HomePosition` | Home position (GNSS + local coordinates) |
-| `/hlpm/hlp_state_manager/module_state` | `odp_common_ros/ModuleState` | Mission state machine transitions |
-| `/platform/uav_interface/terminal/approach_params` | `odp_common_ros/ApproachParams` | Terminal approach geometry (elevation, azimuth, radius) |
-| `/platform/uav_interface/terminal/target_point` | `geometry_msgs/Point` | Target point for terminal guidance |
-| `/platform/uav_interface/mission/plan` | `odp_common_ros/MissionItemArray` | Mission plan (waypoints) from GCS |
+| Topic (default)                                    | Message Type                      | Description                                             |
+| -------------------------------------------------- | --------------------------------- | ------------------------------------------------------- |
+| `/mavros/local_position/pose`                      | `geometry_msgs/PoseStamped`       | Current vehicle pose in local ENU frame                 |
+| `/mavros/home_position/home`                       | `mavros_msgs/HomePosition`        | Home position (GNSS + local coordinates)                |
+| `/hlpm/hlp_state_manager/module_state`             | `odp_common_ros/ModuleState`      | Mission state machine transitions                       |
+| `/platform/uav_interface/terminal/approach_params` | `odp_common_ros/ApproachParams`   | Terminal approach geometry (elevation, azimuth, radius) |
+| `/platform/uav_interface/terminal/target_point`    | `geometry_msgs/Point`             | Target point for terminal guidance                      |
+| `/platform/uav_interface/mission/plan`             | `odp_common_ros/MissionItemArray` | Mission plan (waypoints) from GCS                       |
 
 ### Publishers
 
