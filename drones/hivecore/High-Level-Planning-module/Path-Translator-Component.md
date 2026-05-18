@@ -3,8 +3,8 @@
 > Repo Commit: 70a3fc3b2046b0cd9a5eaae002306357c85fbd47
 > Doc Creation Date: 2026-05-18
 
-> Copilot prompt:  /plan Can you write down these multi drone coominucation architeture options and otehr stuff
-  you mentioned in a doc called multi-dron-comm-architecture.md? 
+> Copilot prompt:  /plan write a brief documentation on the package path_translator_ros and the component
+path_translator_ros.cpp. What it does, what are the functionalities and depends on what?
 ## Overview
 
 `path_translator_ros` is a ROS 2 composable component that acts as a bridge between high-level path planning and low-level drone control. It receives a waypoint path and the drone's current pose, then continuously publishes position or velocity setpoints to guide the drone along the path via MAVROS. Note that this component operates in local NED frame - all the info it receives and all the info it publishes are in local NED frame. So no transformation is performed here.
