@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/ROS2/ROS2 dependency management guideline.md",
+                "file": "drones/hivecore/High-Level-Planning-module/Global-Path-Planning.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROS2 dependency management guideline"
+              "title": "Global-Path-Planning"
             }
           }
         ],
