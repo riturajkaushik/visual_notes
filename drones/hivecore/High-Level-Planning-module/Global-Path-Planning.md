@@ -77,12 +77,12 @@ The node publishes diagnostic checks covering:
 
 ## Coordinate Frames
 
-| Context | Frame | Notes |
-|---|---|---|
-| Published path (`global_path`) | `map` | All path waypoints are published in the `map` frame |
-| Ego pose input | Local ENU | Received from MAVROS local position (East-North-Up) |
-| Home position | GNSS + Local ENU | Stores both lat/lon/alt (geodetic) and local ENU position |
-| Mission waypoints | Per-waypoint `MavFrame` | Each waypoint carries its own frame identifier; supports both global (GNSS) and local NED frame waypoints |
+| Context                        | Frame                   | Notes                                                                                                     |
+| ------------------------------ | ----------------------- | --------------------------------------------------------------------------------------------------------- |
+| Published path (`global_path`) | `map`                   | All path waypoints are published in the `map` frame (ENU)                                                 |
+| Ego pose input                 | Local ENU               | Received from MAVROS local position (East-North-Up)                                                       |
+| Home position                  | GNSS + Local ENU        | Stores both lat/lon/alt (geodetic) and local ENU position                                                 |
+| Mission waypoints              | Per-waypoint `MavFrame` | Each waypoint carries its own frame identifier; supports both global (GNSS) and local NED frame waypoints |
 
 > **Note:** This node does not perform tf2 transformations. Frame conversions between GNSS, local NED, and local ENU are handled internally by the core `GlobalPathPlanning` library.
 
